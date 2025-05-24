@@ -1,2 +1,5 @@
 # CPAD_Team12
-Team Members:Adnan Khan Rehan Khan Pulkita Vaid
+Team Members:
+1. Adnan Khan 
+2. Rehan Khan 
+3. Pulkita Vaid
