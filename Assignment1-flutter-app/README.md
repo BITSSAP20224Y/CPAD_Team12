@@ -21,17 +21,6 @@ GPTGEN 💬 aims to be your go-to 🏄‍♀️ AI companion, seamlessly integra
 - [Pulkita Vaid]
 - [Rehan Khan]
 
-
-
-## Demo
-
-https://drive.google.com/file/d/1ZdMDhDXcloYT5fAag0h1JDaGYMeBVU-a/view?usp=drive_link
-
-## Presentation
-
-https://drive.google.com/file/d/1WUr4xYr3zihTuk8xCe4r_rvZMM29PBR-/view?usp=drive_link
-
-
 ## Installation
 
 Install GPTGEN with flutter 3.* version.
